@@ -1,0 +1,3 @@
+.vscode/
+gsmarena_spider/gsmarena_spider/__pycache__/*
+gsmarena_spider/gsmarena_spider/spiders/__pycache__/*
